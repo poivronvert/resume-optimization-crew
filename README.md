@@ -43,18 +43,17 @@ An AI-powered tool that optimizes your resume for specific job applications usin
 
 ## Quick Start
 
-1. Save your resume as PDF in the project root under the `knowledge/` directory
-2. Run the optimization:
+1. Save your resume as PDF in the project root under the `knowledge/` directory:
+    - Feel free to use the sample resume provided in `knowledge/knowledge/CV_Mohan.pdf`
+    - I got it from [here](https://www.hbs.edu/doctoral/Documents/job-market/CV_Mohan.pdf)
 
-    ```python
-    from resume_crew import ResumeCrew
+2. Fill in the input data in `main.py`:
+    - `job_url`: URL of the job posting (e.g., 'https://www.mckinsey.com/careers/search-jobs/jobs/associate-15178')
+    - `company_name`: Name of the company (e.g., 'Mckinsey & Co.')
 
-    inputs = {
-        'job_url': 'YOUR_JOB_URL',
-        'company_name': 'COMPANY_NAME'
-    }
-
-    ResumeCrew().crew().kickoff(inputs=inputs)
+3. Run the optimization crew:
+    ```bash
+    crewai run
     ```
 
 ## Output Files
