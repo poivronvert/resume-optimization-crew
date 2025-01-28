@@ -1,0 +1,56 @@
+{
+    "content_suggestions": [
+        {
+            "before": "PHD, Business Administration, May 2022 (expected)",
+            "after": "PhD in Business Administration, May 2022 (expected). Emphasize how your doctoral research aligns with solving client challenges and generating data-driven recommendations."
+        },
+        {
+            "before": "Led investment research for assets totaling $ 2 Billion in the US single-state municipal global fixed income space",
+            "after": "Led research on a $2B global fixed income portfolio, collaborating with cross-functional teams to identify investment opportunities and present recommendations to executive leadership."
+        },
+        {
+            "before": "Traded Futures and Options on German govt. bonds (Bunds, Bobl, Schatz) and Euribor futures",
+            "after": "Executed high-volume derivatives trades (German government bonds, Euribor futures), employing quantitative analysis and risk management strategies critical for client-centric engagements."
+        },
+        {
+            "before": "Boutique trading firm focused on European and US interest rate markets",
+            "after": "Boutique consulting/trading environment with client-facing presentations, emphasizing adaptability in global markets and experience working with diverse stakeholders."
+        },
+        {
+            "before": "Research interests listed as Real effects of disclosure; Institutional investors; Capital markets",
+            "after": "Highlight how your research interests in capital markets, regulatory disclosures, and institutional investor behaviors translate to solving client challenges in consulting engagements."
+        }
+    ],
+    "skills_to_highlight": [
+        "Client-facing communication",
+        "Structured problem-solving",
+        "Global market analysis",
+        "Team collaboration and leadership",
+        "Quantitative modeling (Stata, Python)",
+        "Hypothesis testing and recommendations",
+        "Strategic ambiguity management"
+    ],
+    "achievements_to_add": [
+        "Delivered strategic recommendations that helped optimize portfolio returns by effectively reallocating assets across various fixed income products.",
+        "Coordinated cross-functional collaboration with data scientists and risk analysts, resulting in new quantitative models that improved forecast accuracy."
+    ],
+    "keywords_for_ats": [
+        "consulting",
+        "client-facing",
+        "data analysis",
+        "quantitative problem-solving",
+        "implementation",
+        "recommendations",
+        "stakeholder management",
+        "structured thinking",
+        "hypothesis testing",
+        "global exposure"
+    ],
+    "formatting_suggestions": [
+        "Consolidate your technical and soft skills into a dedicated 'Skills' section for quick ATS scanning.",
+        "Ensure consistent bullet point formatting and parallel phrasing throughout the Experience section.",
+        "Use bold or italics for section headers (e.g., EDUCATION, EXPERIENCE) to improve readability.",
+        "Combine repeated entries (e.g., repeated lines of Additional Information) to reduce redundancy.",
+        "Include a brief professional profile/summary at the top highlighting consulting-related achievements."
+    ]
+}

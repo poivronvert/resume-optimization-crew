@@ -1,0 +1,168 @@
+{
+    "technical_skills": [
+        "Quantitative problem-solving",
+        "Data analysis (Stata, Python)",
+        "Logical reasoning",
+        "Presentation of findings"
+    ],
+    "soft_skills": [
+        "Team collaboration",
+        "Communication with diverse audiences",
+        "Ambiguity management",
+        "Structured thinking"
+    ],
+    "experience_requirements": [
+        "5+ years of work experience or advanced degree",
+        "Independent workstream capability",
+        "Client-facing or consulting roles",
+        "Global exposure preferred"
+    ],
+    "key_responsibilities": [
+        "Identify potential solutions for client challenges",
+        "Gather and analyze information",
+        "Formulate and test hypotheses",
+        "Develop and communicate recommendations",
+        "Implement recommendations with client teams"
+    ],
+    "education_requirements": [
+        "Bachelor's degree",
+        "Advanced graduate degree (MBA, PhD, etc.) or equivalent"
+    ],
+    "nice_to_have": [
+        "Industry or functional expertise",
+        "Experience with data science or software design teams"
+    ],
+    "job_title": "Associate",
+    "department": "Consulting",
+    "reporting_structure": "Reports to Engagement Manager or Principal",
+    "job_level": "Associate",
+    "location_requirements": {
+        "type": "Global offices",
+        "details": "Various worldwide office locations available (e.g., Boston, New York, London, etc.)"
+    },
+    "work_schedule": null,
+    "travel_requirements": "Travel may be required to client sites",
+    "compensation": {
+        "currency": "USD/CAD",
+        "value": "192,000-192,000 USD; 200,000-200,000 CAD",
+        "details": "Includes potential bonus; actual figure may vary based on location, experience, and skill set"
+    },
+    "benefits": [
+        "Comprehensive health coverage",
+        "Parental leave",
+        "Retirement contributions",
+        "Paid time off",
+        "Financial guidance services"
+    ],
+    "tools_and_technologies": [
+        "Data visualization tools",
+        "Excel",
+        "Presentation software",
+        "Stata",
+        "Python"
+    ],
+    "industry_knowledge": [
+        "Financial services",
+        "Consumer packaged goods",
+        "Public sector",
+        "Healthcare systems",
+        "Various global industries"
+    ],
+    "certifications_required": [],
+    "security_clearance": null,
+    "team_size": "Typically 3-5 consultants per engagement",
+    "key_projects": [
+        "Strategy implementation",
+        "Operational improvement",
+        "Organizational transformation"
+    ],
+    "cross_functional_interactions": [
+        "Collaboration with data scientists",
+        "Partnership with app designers",
+        "Work with client leadership teams"
+    ],
+    "career_growth": [
+        "Mentoring from senior colleagues",
+        "Professional development manager support",
+        "Specialized knowledge building"
+    ],
+    "training_provided": [
+        "Leadership development",
+        "Structured problem-solving training",
+        "Ongoing coaching and mentoring"
+    ],
+    "diversity_inclusion": "McKinsey is an Equal Opportunity/Affirmative Action employer",
+    "company_values": [
+        "Distinctive and inclusive culture",
+        "Strengths-based development",
+        "Collaboration",
+        "Client impact"
+    ],
+    "job_url": "https://www.mckinsey.com/careers/search-jobs/jobs/associate-15178",
+    "posting_date": "Fri May 26 00:00:00 GMT 2023",
+    "application_deadline": null,
+    "special_instructions": [
+        "For US applicants: Additional details regarding EEO policy",
+        "For Brazilian applicants: Preferred prior work experience is limited to 6 months maximum"
+    ],
+    "match_score": {
+        "overall_match": 0.92,
+        "technical_skills_match": 0.95,
+        "soft_skills_match": 0.9,
+        "experience_match": 0.9,
+        "education_match": 1.0,
+        "industry_match": 0.85,
+        "skill_details": [
+            {
+                "skill_name": "Quantitative analysis",
+                "required": true,
+                "match_level": 1.0,
+                "years_experience": 10.0,
+                "context_score": 1.0
+            },
+            {
+                "skill_name": "Client communication",
+                "required": true,
+                "match_level": 0.8,
+                "years_experience": 7.0,
+                "context_score": 0.8
+            },
+            {
+                "skill_name": "Team collaboration",
+                "required": true,
+                "match_level": 1.0,
+                "years_experience": 10.0,
+                "context_score": 1.0
+            },
+            {
+                "skill_name": "Advanced degree (MBA/PhD)",
+                "required": true,
+                "match_level": 1.0,
+                "years_experience": null,
+                "context_score": 1.0
+            }
+        ],
+        "strengths": [
+            "Exceptional academic credentials (PhD, MBA)",
+            "Significant finance and quantitative background",
+            "Strong quantitative and analytical skills"
+        ],
+        "gaps": [
+            "Limited direct mention of managing large client-facing teams"
+        ],
+        "scoring_factors": {
+            "technical_skills_weight": 0.35,
+            "soft_skills_weight": 0.2,
+            "experience_weight": 0.25,
+            "education_weight": 0.1,
+            "industry_weight": 0.1
+        }
+    },
+    "score_explanation": [
+        "Technical Skills (35%): High proficiency in finance, data analysis, and quantitative methods.",
+        "Soft Skills (20%): Team collaboration, communication, and structuring ambiguity are well demonstrated.",
+        "Experience (25%): Over 7 years in finance plus PhD research experience aligns well with consulting.",
+        "Education (10%): Candidate has both MBA and PhD, meeting and exceeding requirements.",
+        "Industry Knowledge (10%): Primarily financial sector expertise, with broad academic insight and research experience."
+    ]
+}
