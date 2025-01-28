@@ -13,9 +13,19 @@ An AI-powered tool that optimizes your resume for specific job applications usin
 
 ## Installation
 
-```bash
-pip install resume-crew
-```
+1. Clone the repository and install dependencies:
+
+    ```bash
+    git clone https://github.com/yourusername/resume-crew.git
+    cd resume-crew
+    ```
+
+2. Create a virtual environment and install dependencies:
+    ```bash
+    python3 -m venv .venv
+    source .venv/bin/active
+    crewai install
+    ```
 
 ## Environment Setup
 
