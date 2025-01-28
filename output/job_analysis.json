@@ -1,154 +1,161 @@
 {
     "technical_skills": [
-        "Quantitative problem-solving",
-        "Data analysis (Stata, Python)",
-        "Logical reasoning",
-        "Presentation of findings"
+        "Quantitative problem solving",
+        "Data analysis and research",
+        "Hypothesis testing",
+        "Logical reasoning"
     ],
     "soft_skills": [
-        "Team collaboration",
-        "Communication with diverse audiences",
-        "Ambiguity management",
-        "Structured thinking"
+        "Collaboration",
+        "Inclusive teamwork",
+        "Effective verbal and written communication",
+        "Leadership and mentoring abilities",
+        "Adaptability in ambiguous environments"
     ],
     "experience_requirements": [
-        "5+ years of work experience or advanced degree",
-        "Independent workstream capability",
-        "Client-facing or consulting roles",
-        "Global exposure preferred"
+        "Bachelor’s degree; advanced graduate degree (MBA, PhD) or equivalent experience",
+        "Experience leading and driving independent workstreams",
+        "Strong analytical experience, especially with quantitative data"
     ],
     "key_responsibilities": [
-        "Identify potential solutions for client challenges",
-        "Gather and analyze information",
-        "Formulate and test hypotheses",
-        "Develop and communicate recommendations",
-        "Implement recommendations with client teams"
+        "Work in teams of 3-5 consultants to solve client problems",
+        "Gather and analyze information, formulate and test hypotheses",
+        "Communicate recommendations to client management",
+        "Implement solutions collaboratively with client team members",
+        "Travel to client site as needed"
     ],
     "education_requirements": [
-        "Bachelor's degree",
-        "Advanced graduate degree (MBA, PhD, etc.) or equivalent"
+        "Bachelor’s degree minimum",
+        "Advanced graduate degree (MBA, PhD) preferred",
+        "Equivalent (5+ years) work experience in relevant fields may substitute"
     ],
     "nice_to_have": [
-        "Industry or functional expertise",
-        "Experience with data science or software design teams"
+        "Familiarity with strategy and operations in diverse industries",
+        "Experience with global financial markets or consulting background"
     ],
     "job_title": "Associate",
     "department": "Consulting",
-    "reporting_structure": "Reports to Engagement Manager or Principal",
+    "reporting_structure": "Reports to Engagement Manager and Partners",
     "job_level": "Associate",
     "location_requirements": {
-        "type": "Global offices",
-        "details": "Various worldwide office locations available (e.g., Boston, New York, London, etc.)"
+        "primary_location": "Global offices",
+        "travel_percentage": "Up to 80% depending on client needs"
     },
-    "work_schedule": null,
-    "travel_requirements": "Travel may be required to client sites",
+    "work_schedule": "Full-time",
+    "travel_requirements": "Potentially frequent travel to client locations",
     "compensation": {
-        "currency": "USD/CAD",
-        "value": "192,000-192,000 USD; 200,000-200,000 CAD",
-        "details": "Includes potential bonus; actual figure may vary based on location, experience, and skill set"
+        "base_salary_range": "$192,000 USD (US) / $200,000 CAD (Canada)",
+        "bonus_eligibility": "Yes, based on performance"
     },
     "benefits": [
-        "Comprehensive health coverage",
-        "Parental leave",
-        "Retirement contributions",
-        "Paid time off",
-        "Financial guidance services"
+        "Medical, dental, and vision coverage",
+        "Parental leave and family planning",
+        "Retirement contribution plan",
+        "Professional development and mentoring",
+        "Mental health and wellness support"
     ],
     "tools_and_technologies": [
-        "Data visualization tools",
-        "Excel",
-        "Presentation software",
-        "Stata",
-        "Python"
+        "Advanced analytics tools",
+        "Spreadsheets",
+        "Presentation software"
     ],
     "industry_knowledge": [
         "Financial services",
+        "Healthcare systems",
         "Consumer packaged goods",
         "Public sector",
-        "Healthcare systems",
-        "Various global industries"
+        "Technology, media, and multiple other industries"
     ],
     "certifications_required": [],
     "security_clearance": null,
-    "team_size": "Typically 3-5 consultants per engagement",
+    "team_size": "3-5 consultants per engagement",
     "key_projects": [
-        "Strategy implementation",
-        "Operational improvement",
-        "Organizational transformation"
+        "Client performance improvement engagements",
+        "Strategy formulation and implementation projects"
     ],
     "cross_functional_interactions": [
         "Collaboration with data scientists",
-        "Partnership with app designers",
-        "Work with client leadership teams"
+        "Interaction with designers and researchers",
+        "Client management and stakeholders"
     ],
     "career_growth": [
-        "Mentoring from senior colleagues",
-        "Professional development manager support",
-        "Specialized knowledge building"
+        "Frequent mentoring and coaching",
+        "Professional development manager to guide staffing and education",
+        "Broad exposure to multiple industries"
     ],
     "training_provided": [
-        "Leadership development",
-        "Structured problem-solving training",
-        "Ongoing coaching and mentoring"
+        "Onboarding and orientation",
+        "Consulting effectiveness training",
+        "Ongoing leadership development"
     ],
-    "diversity_inclusion": "McKinsey is an Equal Opportunity/Affirmative Action employer",
+    "diversity_inclusion": "Strong commitment to equal opportunity and inclusive environment",
     "company_values": [
-        "Distinctive and inclusive culture",
-        "Strengths-based development",
-        "Collaboration",
-        "Client impact"
+        "Client impact",
+        "Inclusive culture",
+        "Professional growth",
+        "Integrity",
+        "Collaboration"
     ],
     "job_url": "https://www.mckinsey.com/careers/search-jobs/jobs/associate-15178",
-    "posting_date": "Fri May 26 00:00:00 GMT 2023",
+    "posting_date": "May 26, 2023",
     "application_deadline": null,
     "special_instructions": [
-        "For US applicants: Additional details regarding EEO policy",
-        "For Brazilian applicants: Preferred prior work experience is limited to 6 months maximum"
+        "Apply via McKinsey’s career site",
+        "Review additional regional requirements if applicable"
     ],
     "match_score": {
-        "overall_match": 0.92,
-        "technical_skills_match": 0.95,
-        "soft_skills_match": 0.9,
-        "experience_match": 0.9,
+        "overall_match": 0.88,
+        "technical_skills_match": 0.9,
+        "soft_skills_match": 0.85,
+        "experience_match": 0.85,
         "education_match": 1.0,
-        "industry_match": 0.85,
+        "industry_match": 0.8,
         "skill_details": [
             {
-                "skill_name": "Quantitative analysis",
+                "skill_name": "Quantitative problem-solving",
                 "required": true,
-                "match_level": 1.0,
-                "years_experience": 10.0,
-                "context_score": 1.0
+                "match_level": 0.9,
+                "years_experience": 5.0,
+                "context_score": 0.9
             },
             {
-                "skill_name": "Client communication",
+                "skill_name": "Data / statistical analysis",
                 "required": true,
+                "match_level": 0.9,
+                "years_experience": 5.0,
+                "context_score": 0.9
+            },
+            {
+                "skill_name": "Financial / investment domain knowledge",
+                "required": false,
                 "match_level": 0.8,
                 "years_experience": 7.0,
                 "context_score": 0.8
             },
             {
-                "skill_name": "Team collaboration",
+                "skill_name": "Communication / presentation",
                 "required": true,
-                "match_level": 1.0,
-                "years_experience": 10.0,
-                "context_score": 1.0
+                "match_level": 0.85,
+                "years_experience": null,
+                "context_score": 0.85
             },
             {
-                "skill_name": "Advanced degree (MBA/PhD)",
+                "skill_name": "Leadership / team collaboration",
                 "required": true,
-                "match_level": 1.0,
+                "match_level": 0.85,
                 "years_experience": null,
-                "context_score": 1.0
+                "context_score": 0.85
             }
         ],
         "strengths": [
-            "Exceptional academic credentials (PhD, MBA)",
-            "Significant finance and quantitative background",
-            "Strong quantitative and analytical skills"
+            "Advanced education including ongoing PhD and MBA",
+            "Strong finance and investment background",
+            "Quantitative research and data analysis expertise",
+            "Teaching and communication experience"
         ],
         "gaps": [
-            "Limited direct mention of managing large client-facing teams"
+            "Limited direct consulting project experience",
+            "Exposure primarily focused on finance rather than broad-based industries"
         ],
         "scoring_factors": {
             "technical_skills_weight": 0.35,
@@ -159,10 +166,9 @@
         }
     },
     "score_explanation": [
-        "Technical Skills (35%): High proficiency in finance, data analysis, and quantitative methods.",
-        "Soft Skills (20%): Team collaboration, communication, and structuring ambiguity are well demonstrated.",
-        "Experience (25%): Over 7 years in finance plus PhD research experience aligns well with consulting.",
-        "Education (10%): Candidate has both MBA and PhD, meeting and exceeding requirements.",
-        "Industry Knowledge (10%): Primarily financial sector expertise, with broad academic insight and research experience."
+        "Strong educational background and quantitative skills match technical requirements well",
+        "Soft skills demonstrated through teaching experience and academic collaboration",
+        "Relevant industry experience in finance but less exposure to other McKinsey client sectors",
+        "Overall score derived from weighted average of technical, soft, experience, education, and industry match"
     ]
 }

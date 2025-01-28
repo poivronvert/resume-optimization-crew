@@ -79,7 +79,7 @@ optimize_resume_task:
 
 research_company_task:
   description: >
-    Research {company_name} and prepare a comprehensive analysis for year 2025.
+    Research {company_name} and prepare the latest (year 2025) and comprehensive analysis.
     Output will be saved as structured JSON data.
 
     1. Company Overview:

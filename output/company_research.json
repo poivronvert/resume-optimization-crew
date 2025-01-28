@@ -1,1 +1,38 @@
-{"recent_developments":["Expanded digital and analytics capabilities, investing heavily in AI-based consulting offerings for clients","Launched new sustainability and ESG initiatives to guide businesses on responsible growth","Strengthened partnerships with technology providers to enhance cloud and data solutions for clients","Introduced thought leadership publications focused on future work trends and post-pandemic strategy"],"culture_and_values":["Commitment to problem-solving through rigorous, data-driven analysis and collaboration","Focus on diversity, equity, and inclusion, supporting initiatives that foster an inclusive workplace","Deep tradition of mentorship and professional development across all levels of the firm","Emphasis on client impact and measurable outcomes, encouraging an entrepreneurial approach"],"market_position":{"status":["Recognized as a leading global management consulting firm, part of the industry’s ‘Big Three’","Known for high-impact engagements spanning strategy, technology, and operations"],"strengths":["Strong brand recognition and expansive alumni network in private, public, and social sectors","Robust capabilities in advanced analytics, digital transformation, sustainability, and design","Longstanding client relationships across nearly every major industry and geography"],"competition":["Competes directly with Bain & Company, Boston Consulting Group, and specialized boutique consultancies","Faces growing competition from technology-focused firms and consulting branches of large audit firms"]},"growth_trajectory":["Projects continued global expansion, particularly focusing on emerging markets in Asia and Africa","Accelerates digital and AI solutions to assist clients in navigating regulatory and market shifts by 2025","Continues evolving leadership programs and broadening industry coverage to remain a top-tier advisory","Invests in sustainability and climate-focused offerings, responding to increasing demand for ESG strategies"],"interview_questions":["Tell me about a time you demonstrated leadership to overcome a challenging situation","Walk me through your approach to solving a complex, data-intensive business problem","Why are you interested in McKinsey, and how do our values and culture align with your goals?","Describe how you handled a situation requiring consensus-building or stakeholder buy-in","Case-style questions on market sizing, profitability, and strategic recommendations for client scenarios"]}
+{
+    "recent_developments": [
+        "Reported a record revenue of about $16 billion in 2023, reflecting consistent overall growth.",
+        "Heightened focus on generative AI and digital transformation services in client engagements.",
+        "Continued expansion of sustainability consulting through new acquisitions and capabilities.",
+        "Publication of research such as 'The State of Organizations 2023' and ongoing industry-specific outlook reports."
+    ],
+    "culture_and_values": [
+        "Strong emphasis on diversity, equity, and inclusion with a commitment to creating an inclusive environment.",
+        "Client-centric approach underpinned by integrity and ethical conduct in delivering measurable impact.",
+        "Collaborative, team-based culture fostering knowledge exchange and professional growth.",
+        "Ongoing investment in innovation and thought leadership through strategic insights and large-scale research."
+    ],
+    "market_position": {
+        "ranking": [
+            "Recognized as one of the top global management consulting firms with a broad client portfolio across industries."
+        ],
+        "competitors": [
+            "Boston Consulting Group (BCG)",
+            "Bain & Company",
+            "Accenture",
+            "Deloitte"
+        ]
+    },
+    "growth_trajectory": [
+        "Maintained strong year-over-year growth in key practice areas such as digital, analytics, and sustainability.",
+        "Expanding global headcount, surpassing 45,000 employees as part of continued worldwide hiring efforts.",
+        "Heightened industry focus on emerging markets and technology innovation to drive future service growth.",
+        "Extensive acquisitions and strategic partnerships to strengthen implementation and digital transformation offerings."
+    ],
+    "interview_questions": [
+        "Tell me about yourself and why you want to join McKinsey.",
+        "Walk me through a challenging project you worked on, and how you overcame obstacles.",
+        "What are some aspects of our culture or values that resonate with you, and why?",
+        "Case interview: How would you approach solving a client’s profitability issue in a specific industry?",
+        "Behavioral interview: Describe a time you led a team under high pressure and discuss the results you achieved."
+    ]
+}
