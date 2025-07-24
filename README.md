@@ -22,9 +22,9 @@ An AI-powered tool that optimizes your resume for specific job applications usin
 
 2. Create a virtual environment and install dependencies:
     ```bash
-    python3 -m venv .venv
+    uv venv
     source .venv/bin/activate
-    crewai install
+    uv sync
     ```
 
 ## Environment Setup
@@ -38,6 +38,7 @@ An AI-powered tool that optimizes your resume for specific job applications usin
     - Required:
         - `OPENAI_API_KEY`: OpenAI API key
         - `SERPER_API_KEY`: Serper API key for web search
+        - `GOOGLE_API_KEY`: GOOGLE API key
     - Optional:
         - See `.env.example` for additional optional APIs
 
